@@ -1,0 +1,4 @@
+.idea
+target
+Thucydides.iml
+src/main/resources/chromedriver.exe
